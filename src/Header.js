@@ -7,6 +7,13 @@ function Header() {
       <h1>This is the header</h1>
 
       <div  className="header__left">
+          <img src= "" alt="" />
+
+          <div  className="header__search">
+            {/* Search icone */}
+
+            <input type="text"/>
+          </div>
 
       </div>
 
