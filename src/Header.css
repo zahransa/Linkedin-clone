@@ -1,7 +1,11 @@
 .header{
-
-
+display: flex;
 }
+
+.header__left {
+display: flex;
+
+}   
 .header__left > img {
 
     object-fit: contain;
