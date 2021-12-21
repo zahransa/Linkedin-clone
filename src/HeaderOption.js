@@ -1,7 +1,7 @@
 import React from 'react';
 import './HeaderOption.css';
 
-function HeaderOption() {
+function HeaderOption(props) {
     return <div className='headerOption'></div>;
     
 }
